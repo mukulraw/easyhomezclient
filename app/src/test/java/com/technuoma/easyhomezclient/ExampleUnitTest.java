@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.easyhomezclient;
 
 import org.junit.Test;
 

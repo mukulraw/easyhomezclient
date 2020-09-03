@@ -1,4 +1,4 @@
-package com.technuoma.emartclient;
+package com.technuoma.easyhomezclient;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,8 +16,8 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.technuoma.emartclient.orderDetailsPOJO.Datum;
-import com.technuoma.emartclient.orderDetailsPOJO.orderDetailsBean;
+import com.technuoma.easyhomezclient.orderDetailsPOJO.Datum;
+import com.technuoma.easyhomezclient.orderDetailsPOJO.orderDetailsBean;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 
